@@ -12,3 +12,4 @@ SOLID principles are the design principles that enable us manage most of the sof
 * **I : Interface Segregation Principle (ISP)**
 * **D : Dependency Inversion Principle (DIP)**
 
+**Single Responsibility Principles:** 
